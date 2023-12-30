@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: a571d00dfda6db1499b7dae50438aedf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17778786304
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74884235264
+    m_Localized: "Configuraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79615410176
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82471731200
+    m_Localized: Sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86259187712
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88977096704
+    m_Localized: Salir del juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97336344576
+    m_Localized: "\xBFEst\xE1s seguro? \xBFQuieres salir?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101761335296
+    m_Localized: Cargando...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103778795520
+    m_Localized: Seleccionar nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104479244288
+    m_Localized: Sala 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105116778496
+    m_Localized: Sala 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105821421568
+    m_Localized: Juego en pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107000020992
+    m_Localized: Reanudar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107700469760
+    m_Localized: Nivel completado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108409307136
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109009092608
+    m_Localized: "Int\xE9ntalo otra vez"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109684375552
+    m_Localized: Selecciona la respuesta correcta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656416096256
+    m_Localized: Respuesta correcta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 658328698880
+    m_Localized: Respuesta equivocada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 659737985024
+    m_Localized: Enhorabuena, has desbloqueado una nueva sala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4680380653068288
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4680644818722816
+    m_Localized: Seleccionar idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681052802867200
+    m_Localized: "Informaci\xF3n del juego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681121358766080
+    m_Localized: "- El prop\xF3sito de este juego es ense\xF1arte sobre el emprendimiento.
+      Avanzas niveles al responder correctamente a las preguntas. - Aqu\xED est\xE1n
+      las instrucciones de c\xF3mo jugar: Pulsa sobre el desplegable de idiomas para
+      cambiar tu idioma. - Tambi\xE9n puedes alternar entre el sonido ambiental del
+      juego, sonido de los botones, y efectos de sonido al pulsar en los botones
+      de m\xFAsica y sonido. - Puedes seleccionar la dificultad del juego desde el
+      panel de configuraci\xF3n. Seleccionar \"Jugar\" te permitir\xE1 empezar el
+      juego. Una vez comiences, selecciona el nivel al que quieres jugar. - Cada
+      nivel contiene m\xFAltiples objetos. Cuando vayas cerca de esos objetos, puedes
+      encontrar preguntas ocultas. Encuentra estos objetos y completa las preguntas
+      para ganar puntos. - \xA1Cuando completes todas las preguntas, podr\xE1s escapar
+      de la habitaci\xF3n y desbloquear el siguiente nivel!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180189335969792
+    m_Localized: "Puntuaci\xF3n:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5179757939220480
+    m_Localized: Nivel fallido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5178985184845824
+    m_Localized: Objeto completado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180079793332224
+    m_Localized: "Tu puntuaci\xF3n es:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180083157164032
+    m_Localized: "Necesitas un m\xEDnimo del 50% de puntuaci\xF3n para completar
+      el nivel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5181347047759872
+    m_Localized: "Informaci\xF3n sobre el juego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5191648308715520
+    m_Localized: Leer pregunta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183892583440384
+    m_Localized: Hogar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183499715567616
+    m_Localized: Tiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183113885736960
+    m_Localized: Respuesta correcta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5182448551682048
+    m_Localized: Partida completa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5182006992134144
+    m_Localized: "Tu mandato est\xE1 completo ahora es el segundo mandato de jugador"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5181260426993664
+    m_Localized: "- Cada nivel tiene diferentes pruebas. Cada habitaci\xF3n contiene
+      m\xFAltiples objetos. Cuando te acercas a esos objetos, puedes encontrar pruebas
+      ocultas. - Encuentra estos objetos y completa las preguntas para obtener puntuaci\xF3n.
+      Cuando hayas completado todas las pruebas, podr\xE1s escapar del nivel y desbloquear
+      el siguiente. - Utiliza el bot\xF3n de abajo a la izquierda para moverte por
+      la habitaci\xF3n, y utiliza el bot\xF3n de abajo a la derecha para mirar en
+      distintas direcciones. - Cada pregunta da 5 puntos por responder correctamente.
+      - Necesitas responder un m\xEDnimo de 50% preguntas correctamente mientras
+      completas todos los ejercicios para completar la habitaci\xF3n y desbloquear
+      el siguiente nivel. - Vigila el \"Tiempo del nivel\" que muestra arriba en
+      el centro. Si fallas al completar las pruebas en el tiempo permitido, el nivel
+      ser\xE1 fallido aunque logres la condici\xF3n de puntuaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5167058484289536
+    m_Localized: Multigiocatore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681833857769472
+    m_Localized: "\rJugadora 2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681831504764928
+    m_Localized: "\rJugadora 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681595847794688
+    m_Localized: "\rInserisci il nome"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681525811306496
+    m_Localized: Inserisci il tuo nome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681474259116032
+    m_Localized: Personalizzazione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5200105149652992
+    m_Localized: Aviso legal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5200107297136640
+    m_Localized: "Publicaci\xF3n financiada por la Comisi\xF3n Europea en el marco
+      del programa Erasmus+. Financiado por la Uni\xF3n Europea. Sin embargo, los
+      puntos de vista y opiniones expresados \u200B\u200Bson \xFAnicamente los de
+      los autores y no reflejan necesariamente los de la Uni\xF3n Europea o la Agencia
+      Nacional (AN). Ni la Uni\xF3n Europea ni NA pueden ser considerados responsables
+      de ellos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202842415357952
+    m_Localized: "Ingl\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202844684476416
+    m_Localized: Griego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202846790017024
+    m_Localized: Italiano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202848945889280
+    m_Localized: "Espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5203523851345920
+    m_Localized: Polaco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5476628267450368
+    m_Localized: "Holand\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6357989773721600
+    m_Localized: Finalizar partido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8318338366357504
+    m_Localized: "Entra en Efecto resaltado para escapar de la habitaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

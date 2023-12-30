@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: a571d00dfda6db1499b7dae50438aedf
+  m_Entries:
+  - m_Id: 17778786304
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74884235264
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79615410176
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82471731200
+    m_Key: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86259187712
+    m_Key: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88977096704
+    m_Key: Game Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97336344576
+    m_Key: Are You Sure! You Want To Exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101761335296
+    m_Key: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103778795520
+    m_Key: Select Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104479244288
+    m_Key: Room 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105116778496
+    m_Key: Room 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105821421568
+    m_Key: Game Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107000020992
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107700469760
+    m_Key: Level Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108409307136
+    m_Key: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109009092608
+    m_Key: Try Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109684375552
+    m_Key: Select Right Answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656416096256
+    m_Key: Right  Answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 658328698880
+    m_Key: Wrong Answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 659737985024
+    m_Key: Congratulation you have unlocked new room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4680380653068288
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4680644818722816
+    m_Key: Select Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681052802867200
+    m_Key: Game Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681121358766080
+    m_Key: Gameinfo Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681474259116032
+    m_Key: Personalization
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681525811306496
+    m_Key: Enter Your Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681595847794688
+    m_Key: Enter Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681831504764928
+    m_Key: Player 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681833857769472
+    m_Key: Player 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5167058484289536
+    m_Key: Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5178985184845824
+    m_Key: Object Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5179757939220480
+    m_Key: Level Fail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180079793332224
+    m_Key: 'Your Score is:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180083157164032
+    m_Key: You need a minimum 50% score to complete the level.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180189335969792
+    m_Key: 'Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5181260426993664
+    m_Key: GameplayInfoText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5181347047759872
+    m_Key: Gameplay Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5182006992134144
+    m_Key: Your Term is Complete now its second player term
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5182448551682048
+    m_Key: Match Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183113885736960
+    m_Key: Correct Answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183499715567616
+    m_Key: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183892583440384
+    m_Key: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5191648308715520
+    m_Key: Read Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5200105149652992
+    m_Key: Disclaimer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5200107297136640
+    m_Key: DisclaimerText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202842415357952
+    m_Key: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202844684476416
+    m_Key: Greek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202846790017024
+    m_Key: Italian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202848945889280
+    m_Key: Spanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5203523851345920
+    m_Key: Polish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5476628267450368
+    m_Key: Dutch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6357989773721600
+    m_Key: End Match
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8318338366357504
+    m_Key: Go into Highlighted Effect to escape form room.
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1355018457353027615
+  references:
+    version: 2
+    RefIds:
+    - rid: 1355018457353027615
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1693898076098

@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fcaa9ce85440384cb8dbd2cf60bef24, type: 3}
+  m_Name: GData
+  m_EditorClassIdentifier: 
+  IsFirstTime: 1
+  IsMultiplayer: 0
+  Multi_Level_Unlock: 1
+  SelectedAvatar: 0
+  SelectLanguage: 0
+  PlayerName: 
+  GameQUestion:
+  - QuestionNo: Question 1
+    IsComplete: 0
+  - QuestionNo: Question 2
+    IsComplete: 0
+  - QuestionNo: Question 3
+    IsComplete: 0
+  - QuestionNo: Question 4
+    IsComplete: 0
+  - QuestionNo: Question 5
+    IsComplete: 0
+  - QuestionNo: Question 6
+    IsComplete: 0
+  - QuestionNo: Question 7
+    IsComplete: 0
+  - QuestionNo: Question 8
+    IsComplete: 0
+  - QuestionNo: Question 9
+    IsComplete: 0
+  - QuestionNo: Question 10
+    IsComplete: 0
+  - QuestionNo: Question 11
+    IsComplete: 0
+  - QuestionNo: Question 12
+    IsComplete: 0
+  - QuestionNo: Question 13
+    IsComplete: 0
+  - QuestionNo: Question 14
+    IsComplete: 0
+  - QuestionNo: Question 15
+    IsComplete: 0
+  - QuestionNo: Question 16
+    IsComplete: 0
+  - QuestionNo: Question 17
+    IsComplete: 0
+  - QuestionNo: Question 18
+    IsComplete: 0
+  - QuestionNo: Question 19
+    IsComplete: 0
+  - QuestionNo: Question 20
+    IsComplete: 0
+  - QuestionNo: Question 21
+    IsComplete: 0
+  - QuestionNo: Question 22
+    IsComplete: 0
+  - QuestionNo: Question 23
+    IsComplete: 0
+  - QuestionNo: Question 24
+    IsComplete: 0
+  - QuestionNo: Question 25
+    IsComplete: 0
+  - QuestionNo: Question 26
+    IsComplete: 0
+  - QuestionNo: Question 27
+    IsComplete: 0
+  - QuestionNo: Question 28
+    IsComplete: 0
+  - QuestionNo: Question 29
+    IsComplete: 0
+  - QuestionNo: Question 30
+    IsComplete: 0
+  Multi_Player:
+  - PlayerName: 
+    SelectedAvatar: 0
+    RightAnswer: 0
+    WrongAnswer: 0
+    TimeTaken: 0
+  - PlayerName: 
+    SelectedAvatar: 0
+    RightAnswer: 0
+    WrongAnswer: 0
+    TimeTaken: 0

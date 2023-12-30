@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a571d00dfda6db1499b7dae50438aedf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17778786304
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74884235264
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79615410176
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82471731200
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86259187712
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88977096704
+    m_Localized: Game Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97336344576
+    m_Localized: Are You Sure! You Want To Exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101761335296
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103778795520
+    m_Localized: Select Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104479244288
+    m_Localized: Room 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105116778496
+    m_Localized: Room 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105821421568
+    m_Localized: Game Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107000020992
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107700469760
+    m_Localized: Level Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108409307136
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109009092608
+    m_Localized: Try Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109684375552
+    m_Localized: Select Right Answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656416096256
+    m_Localized: Right  Answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 658328698880
+    m_Localized: Wrong Answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 659737985024
+    m_Localized: Congratulation you have unlocked new room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4680380653068288
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5167058484289536
+    m_Localized: Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4680644818722816
+    m_Localized: Select Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681052802867200
+    m_Localized: Game Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681121358766080
+    m_Localized: "- The purpose of this game is to teach you about the Enterpreneurship.
+      You advance levels by correctly answering questions. - Here\u2019s how to play:
+      Click on the language dropdown to change your language. - You can also toggle
+      the game's background sound, button sound, and effect sound by clicking on
+      music and sound buttons. - You can select game difficulty from settings panel.
+      - Selecting \u2018Play\u2019 will allow you to start the game. Once you start,
+      select the level you want to play. - Each level contains multiple objects.
+      When you go near these objects, you can find hidden quizzes. Find these objects
+      and complete the quizzes to get score points. - Once you complete all quizzes,
+      you can escape this room and unlock the next one! "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681474259116032
+    m_Localized: Personalization
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681525811306496
+    m_Localized: Enter Your Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681595847794688
+    m_Localized: Enter Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681831504764928
+    m_Localized: Player 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681833857769472
+    m_Localized: Player 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5178985184845824
+    m_Localized: Object Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5179757939220480
+    m_Localized: Level Fail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180083157164032
+    m_Localized: You need a minimum 50% score to complete the level.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180079793332224
+    m_Localized: 'Your Score is:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180189335969792
+    m_Localized: 'Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5181260426993664
+    m_Localized: "- Each level has different quizzes. Each room contains multiple
+      objects. When you go near these objects, you can find hidden quizzes. - Find
+      these objects and complete the quizzes to get score points. Once you complete
+      all quizzes, you can escape the level and unlock the next one.\r\n- Use the
+      bottom left button to move around the room, and use the bottom right button
+      to look in different directions. \r\n- Each quiz gives 5 score points on the
+      correct answer.\r\n- You need to answer a minimum 50% correct answers while
+      completing all exercises to complete the room and unlock the next one.\r\n-
+      Keep an eye on the \"Level time\" shown at the top center. If you fail to complete
+      all quizzes in the allowed time. The level will fail despite fulfilling the
+      score condition."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5181347047759872
+    m_Localized: Gameplay Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5182006992134144
+    m_Localized: Your Term is Complete now its second player term
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5182448551682048
+    m_Localized: Match Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183499715567616
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183892583440384
+    m_Localized: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183113885736960
+    m_Localized: Correct Answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5191648308715520
+    m_Localized: Read Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5200105149652992
+    m_Localized: Disclaimer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5200107297136640
+    m_Localized: Publication financed by the European Commission under the Erasmus+
+      program. Funded by the European Union. Views and opinions expressed are however
+      those of the author(s) only and do not necessarily reflect those of the European
+      Union or the National Agency(NA). Neither the European Union nor NA can be
+      held responsible for them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202842415357952
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202844684476416
+    m_Localized: Greek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202846790017024
+    m_Localized: Italian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202848945889280
+    m_Localized: Spanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5203523851345920
+    m_Localized: Polish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5476628267450368
+    m_Localized: Dutch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6357989773721600
+    m_Localized: End Match
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8318338366357504
+    m_Localized: Go into Highlighted Effect to escape form room.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: a571d00dfda6db1499b7dae50438aedf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17778786304
+    m_Localized: Gioco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74884235264
+    m_Localized: Impostazioni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79615410176
+    m_Localized: Musica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82471731200
+    m_Localized: Suono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86259187712
+    m_Localized: ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88977096704
+    m_Localized: Fine del Gioco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97336344576
+    m_Localized: Sei Sicuro ? Vuoi uscire?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101761335296
+    m_Localized: Caricamento...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103778795520
+    m_Localized: Seleziona livello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104479244288
+    m_Localized: Stanza 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105116778496
+    m_Localized: Stanza 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105821421568
+    m_Localized: Gioco in pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107000020992
+    m_Localized: Ricomincia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107700469760
+    m_Localized: Livello completato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108409307136
+    m_Localized: Prossimo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109009092608
+    m_Localized: Prova di nuovo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109684375552
+    m_Localized: Seleziona la risposta corretta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656416096256
+    m_Localized: Risposta corretta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 658328698880
+    m_Localized: Risposta sbagliata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 659737985024
+    m_Localized: Congratulazioni hai sbloccato la nuova stanza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4680380653068288
+    m_Localized: Lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4680644818722816
+    m_Localized: Seleziona Lingua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681052802867200
+    m_Localized: Informazioni di Gioco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681121358766080
+    m_Localized: "- Lo scopo di questo gioco \xE8 insegnarti l'imprenditorialit\xE0.
+      Avanzate di livello rispondendo correttamente alle domande. - Ecco come giocare:
+      fai clic sul menu a discesa della lingua per cambiare la lingua. - Puoi anche
+      attivare/disattivare il suono di sottofondo del gioco, il suono dei pulsanti
+      e l'effetto sonoro facendo clic sui pulsanti della musica e del suono. - Puoi
+      selezionare la difficolt\xE0 del gioco dal pannello delle impostazioni. - Selezionando
+      \"Gioca\" potrai avviare il gioco. Una volta iniziato, seleziona il livello
+      a cui vuoi giocare. - Ogni livello contiene pi\xF9 oggetti. Quando ti avvicini
+      a questi oggetti, puoi trovare quiz nascosti. Trova questi oggetti e completa
+      i quiz per ottenere punti. - Una volta completati tutti i quiz, puoi fuggire
+      da questa stanza e sbloccare quella successiva!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180189335969792
+    m_Localized: 'Punteggio:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5179757939220480
+    m_Localized: Livello Fallito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5178985184845824
+    m_Localized: Obiettivo Completato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180079793332224
+    m_Localized: "Il tuo punteggio \xE8: "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180083157164032
+    m_Localized: Hai bisogno di un punteggio minimo del 50% per completare il livello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5181347047759872
+    m_Localized: Informazioni per giocare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5191648308715520
+    m_Localized: Leggi la domanda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183892583440384
+    m_Localized: Casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183499715567616
+    m_Localized: Tempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183113885736960
+    m_Localized: Risposta corretta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5182448551682048
+    m_Localized: Partita completata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5182006992134144
+    m_Localized: "Il tuo mandato \xE8 completo ora \xE8 il suo secondo mandato da
+      giocatore"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5181260426993664
+    m_Localized: "- Ogni livello ha quiz diversi. Ogni stanza contiene pi\xF9 oggetti.
+      Quando ti avvicini a questi oggetti, puoi trovare quiz nascosti. - Trova questi
+      oggetti e completa i quiz per ottenere punti. Una volta completati tutti i
+      quiz, puoi sfuggire al livello e sbloccare quello successivo.\r\n- Usa il pulsante
+      in basso a sinistra per muoverti nella stanza e usa il pulsante in basso a
+      destra per guardare in direzioni diverse.\r\n- Ogni quiz d\xE0 5 punti sulla
+      risposta corretta.\r\n- Devi rispondere ad almeno il 50% di risposte corrette
+      mentre completi tutti gli esercizi per completare la stanza e sbloccare quella
+      successiva.\r\n- Tieni d'occhio il \"Tempo del livello\" mostrato in alto al
+      centro. Se non riesci a completare tutti i quiz nel tempo consentito. Il livello
+      fallir\xE0 nonostante siano soddisfatte le condizioni del punteggio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5167058484289536
+    m_Localized: "\rMultijugadora"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681833857769472
+    m_Localized: Giocatore 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681831504764928
+    m_Localized: Giocatore 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681595847794688
+    m_Localized: 'Ingrese su nombre
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681525811306496
+    m_Localized: Introduzca su nombre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681474259116032
+    m_Localized: "Personalizaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5200105149652992
+    m_Localized: Disclaimer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5200107297136640
+    m_Localized: "Pubblicazione finanziata dalla Commissione Europea nell'ambito
+      del programma Erasmus+. Finanziato dall'Unione Europea. I punti di vista e
+      le opinioni espressi sono tuttavia quelli esclusivamente dell'autore/i e non
+      riflettono necessariamente quelli dell'Unione Europea o dell'Agenzia Nazionale
+      (NA). N\xE9 l\u2019Unione Europea n\xE9 l\u2019NA possono essere ritenute responsabili
+      per essi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202842415357952
+    m_Localized: Inglese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202844684476416
+    m_Localized: Greco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202846790017024
+    m_Localized: Italiano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202848945889280
+    m_Localized: Spagnolo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5203523851345920
+    m_Localized: Polacco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5476628267450368
+    m_Localized: Olandese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6357989773721600
+    m_Localized: Fine partita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8318338366357504
+    m_Localized: Entra nell'Effetto Evidenziato per sfuggire alla stanza.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,264 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: a571d00dfda6db1499b7dae50438aedf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17778786304
+    m_Localized: Graj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74884235264
+    m_Localized: Ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79615410176
+    m_Localized: Muzyka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82471731200
+    m_Localized: "D\u017Awi\u0119k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86259187712
+    m_Localized: Dobrze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88977096704
+    m_Localized: "Wyj\u015Bcie z gry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97336344576
+    m_Localized: "Czy jest pewien, \u017Ce chcesz zako\u0144czy\u0107 gr\u0119?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101761335296
+    m_Localized: "\u0141adowanie..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103778795520
+    m_Localized: Wybierz poziom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104479244288
+    m_Localized: "Pok\xF3j 01"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105116778496
+    m_Localized: "Pok\xF3j 02"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105821421568
+    m_Localized: Przerwa w grze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107000020992
+    m_Localized: Podsumowanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107700469760
+    m_Localized: "Poziom uko\u0144czony"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108409307136
+    m_Localized: "Nast\u0119pny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109009092608
+    m_Localized: "Spr\xF3buj ponownie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109684375552
+    m_Localized: "Wybierz odpowiedni\u0105 odpowied\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656416096256
+    m_Localized: Dobrze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 658328698880
+    m_Localized: "\u0179le"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 659737985024
+    m_Localized: "Gratulacje! Otworzy\u0142e\u015B pok\xF3j!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4680380653068288
+    m_Localized: "J\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4680644818722816
+    m_Localized: "Wybierz j\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681052802867200
+    m_Localized: "Wybierz j\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681121358766080
+    m_Localized: "- Celem tej gry jest nauczenie ci\u0119 przedsi\u0119biorczo\u015Bci.
+      Awansujesz na kolejne poziomy, poprawnie odpowiadaj\u0105c na pytania. - Oto
+      jak gra\u0107: Kliknij list\u0119 wyboru j\u0119zyka, aby zmieni\u0107 j\u0119zyk.
+      - Mo\u017Cesz tak\u017Ce prze\u0142\u0105cza\u0107 d\u017Awi\u0119k t\u0142a
+      gry, d\u017Awi\u0119k przycisk\xF3w i d\u017Awi\u0119k efekt\xF3w, klikaj\u0105c
+      przyciski muzyki i d\u017Awi\u0119ku. - W panelu ustawie\u0144 mo\u017Cna wybra\u0107
+      poziom trudno\u015Bci gry. - Wybranie opcji \"Graj\" umo\u017Cliwi rozpocz\u0119cie
+      gry. Po uruchomieniu wybierz poziom, na kt\xF3rym chcesz gra\u0107. - Ka\u017Cdy
+      poziom zawiera wiele obiekt\xF3w. Gdy zbli\u017Cysz si\u0119 do tych obiekt\xF3w,
+      mo\u017Cesz znale\u017A\u0107 ukryte zadania. Znajd\u017A te obiekty i uko\u0144cz
+      zadania, aby zdoby\u0107 punkty. - Po uko\u0144czeniu wszystkich zada\u0144
+      mo\u017Cesz wyj\u015B\u0107 z pokoju i otworzy\u0107 nast\u0119pny! "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681474259116032
+    m_Localized: Personalizacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681525811306496
+    m_Localized: "Wpisz swoje imi\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681595847794688
+    m_Localized: "Wprowad\u017A imi\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681831504764928
+    m_Localized: Gracz 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681833857769472
+    m_Localized: Gracz 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5167058484289536
+    m_Localized: Tryb wieloosobowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5178985184845824
+    m_Localized: "Zadanie uko\u0144czone"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5179757939220480
+    m_Localized: "B\u0142\u0105d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180079793332224
+    m_Localized: "Tw\xF3j wynik to:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180083157164032
+    m_Localized: "Musisz zdobyc minum 50%, aby ukonczy\u0107 poziom"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180189335969792
+    m_Localized: Wynik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5181260426993664
+    m_Localized: "\"- Ka\u017Cdy poziom zawiera r\xF3\u017Cne zadania. Ka\u017Cdy
+      pok\xF3j zawiera wiele przeszk\xF3d. Gdy zbli\u017Cysz si\u0119 do tych element\xF3w,
+      mo\u017Cesz znale\u017A\u0107 ukryte zadania. - Znajd\u017A te elementy i wype\u0142nij
+      zadania, aby zdoby\u0107 punkty. Po uko\u0144czeniu wszystkich zada\u0144 mo\u017Cesz
+      przej\u015B\u0107 dalej i otworzy\u0107 nast\u0119pny poziom.\n- U\u017Cyj
+      lewego dolnego przycisku, aby porusza\u0107 si\u0119 po pokoju, a prawego dolnego
+      przycisku, aby patrze\u0107 w r\xF3\u017Cnych kierunkach. \n- Ka\u017Cde zadanie
+      zapewnia 5 punkt\xF3w za poprawn\u0105 odpowied\u017A.\n- Musisz udzieli\u0107
+      co najmniej 50% poprawnych odpowiedzi podczas wykonywania wszystkich \u0107wicze\u0144,
+      aby pomy\u015Blnie przej\u015B\u0107 przez pok\xF3j i otworzy\u0107 nast\u0119pny.\n-
+      Zwracaj uwag\u0119 na czas poziomu\"\" wy\u015Bwietlany w g\xF3rnej \u015Brodkowej
+      cz\u0119\u015Bci ekranu. Je\u015Bli nie uda ci si\u0119 uko\u0144czy\u0107
+      wszystkich zada\u0144 w wyznaczonym czasie, poziom zako\u0144czy si\u0119 niepowodzeniem
+      pomimo spe\u0142nienia warunku wyniku.\"\"\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5181347047759872
+    m_Localized: Informacja o grze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5191648308715520
+    m_Localized: Przeczytaj Pytanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183892583440384
+    m_Localized: "Powr\xF3t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183499715567616
+    m_Localized: 'Czas '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183113885736960
+    m_Localized: "Poprawna odpowied\u017A\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5182448551682048
+    m_Localized: "Mecz zako\u0144czony"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5182006992134144
+    m_Localized: "Twoja seria jest zako\u0144czona, teraz jest to druga seria zawodnika"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5200105149652992
+    m_Localized: Klauzula
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5200107297136640
+    m_Localized: "Publikacja dofinansowana przez Komisj\u0119 Europejsk\u0105 w ramach
+      programu Erasmus+. Finansowane przez Uni\u0119 Europejsk\u0105. Pogl\u0105dy
+      i opinie wyra\u017Cone w publikacji s\u0105 wy\u0142\u0105cznie pogl\u0105dami
+      i opiniami autor\xF3w i nie musz\u0105 odzwierciedla\u0107 pogl\u0105d\xF3w
+      Unii Europejskiej lub Narodowej Agencji (NA). Ani Unia Europejska, ani Narodowa
+      Agencja nie ponosz\u0105 za nie odpowiedzialno\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202842415357952
+    m_Localized: Angielski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202844684476416
+    m_Localized: Grecki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202846790017024
+    m_Localized: "W\u0142oski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202848945889280
+    m_Localized: "Hiszpa\u0144ski"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5203523851345920
+    m_Localized: Polski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5476628267450368
+    m_Localized: Holenderski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6357989773721600
+    m_Localized: "Zako\u0144cz mecz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8318338366357504
+    m_Localized: "Przejd\u017A do efektu pod\u015Bwietlenia, aby uciec z pokoju."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

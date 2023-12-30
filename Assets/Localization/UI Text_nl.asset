@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: a571d00dfda6db1499b7dae50438aedf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17778786304
+    m_Localized: Toneelstuk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74884235264
+    m_Localized: Instellingen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79615410176
+    m_Localized: Muziek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82471731200
+    m_Localized: Geluid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86259187712
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88977096704
+    m_Localized: Spel verlaten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97336344576
+    m_Localized: Weet je het zeker! Wil je weggaan?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101761335296
+    m_Localized: Bezig met laden..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103778795520
+    m_Localized: Kies een niveau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104479244288
+    m_Localized: Kamer 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105116778496
+    m_Localized: Kamer 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105821421568
+    m_Localized: Spelpauze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107000020992
+    m_Localized: Cv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107700469760
+    m_Localized: Niveau voltooid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108409307136
+    m_Localized: Volgende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109009092608
+    m_Localized: Probeer het nog eens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109684375552
+    m_Localized: Selecteer Juist antwoord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656416096256
+    m_Localized: Correct antwoord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 658328698880
+    m_Localized: Verkeerd antwoord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 659737985024
+    m_Localized: Gefeliciteerd, je hebt een nieuwe kamer ontgrendeld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4680380653068288
+    m_Localized: Taal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4680644818722816
+    m_Localized: Selecteer Taal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681052802867200
+    m_Localized: SPELINFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681121358766080
+    m_Localized: "- Het doel van dit spel is om je iets te leren over ondernemerschap.
+      Je gaat een niveau hoger door vragen correct te beantwoorden. - Zo speel je:
+      klik op de taalkeuzelijst om je taal te wijzigen. - Je kunt ook het achtergrondgeluid,
+      het knopgeluid en het effectgeluid van het spel wijzigen door op de muziek-
+      en geluidsknoppen te klikken. - U kunt de moeilijkheidsgraad van het spel selecteren
+      in het instellingenpaneel. - Als u \u2018Spelen\u2019 selecteert, kunt u het
+      spel starten. Zodra je begint, selecteer je het niveau dat je wilt spelen.
+      - Elk niveau bevat meerdere objecten. Als je in de buurt van deze objecten
+      komt, kun je verborgen quizzen vinden. Vind deze objecten en voltooi de quizzen
+      om punten te scoren. - Zodra je alle quizzen hebt voltooid, kun je uit deze
+      kamer ontsnappen en de volgende ontgrendelen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681474259116032
+    m_Localized: Personalisatie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681525811306496
+    m_Localized: Vul uw naam in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681595847794688
+    m_Localized: Voer naam in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681831504764928
+    m_Localized: Speler 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4681833857769472
+    m_Localized: Speler 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5167058484289536
+    m_Localized: Multiplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5178985184845824
+    m_Localized: Object voltooid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5179757939220480
+    m_Localized: Niveau mislukt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180079793332224
+    m_Localized: 'Je score is:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180083157164032
+    m_Localized: Je hebt een minimale score van 50% nodig om het level te voltooien.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5180189335969792
+    m_Localized: 'Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5181260426993664
+    m_Localized: '- Elk niveau heeft verschillende quizzen. Elke kamer bevat meerdere
+      objecten. Als je in de buurt van deze objecten komt, kun je verborgen quizzen
+      vinden. - Vind deze objecten en voltooi de quizzen om punten te scoren. Zodra
+      je alle quizzen hebt voltooid, kun je uit het level ontsnappen en het volgende
+      ontgrendelen.
+
+      - Gebruik de knop linksonder om door de kamer te bewegen
+      en gebruik de knop rechtsonder om in verschillende richtingen te kijken.
+
+      -
+      Elke quiz levert 5 scorepunten op voor het juiste antwoord.
+
+      - Je moet
+      minimaal 50% juiste antwoorden beantwoorden terwijl je alle oefeningen voltooit
+      om de kamer te voltooien en de volgende te ontgrendelen.
+
+      - Houd de "Niveautijd"
+      in het midden bovenaan in de gaten. Als u niet alle quizzen binnen de toegestane
+      tijd voltooit. Het niveau mislukt ondanks het voldoen aan de scorevoorwaarde.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5181347047759872
+    m_Localized: Gameplay-informatie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5182006992134144
+    m_Localized: Je termijn is voltooid, nu de tweede spelertermijn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5182448551682048
+    m_Localized: Wedstrijd voltooid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183113885736960
+    m_Localized: 'Goed antwoord
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183499715567616
+    m_Localized: Tijd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5183892583440384
+    m_Localized: Thuis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5191648308715520
+    m_Localized: Lees vraag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5200105149652992
+    m_Localized: Vrijwaring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5200107297136640
+    m_Localized: Publicatie gefinancierd door de Europese Commissie onder het Erasmus+
+      programma. Gefinancierd door de Europese Unie. De weergegeven standpunten en
+      meningen zijn echter uitsluitend die van de auteur(s) en weerspiegelen niet
+      noodzakelijkerwijs die van de Europese Unie of het Nationaal Agentschap (NA).
+      Noch de Europese Unie, noch NA kunnen hiervoor verantwoordelijk worden gehouden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202842415357952
+    m_Localized: Engels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202844684476416
+    m_Localized: Grieks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202846790017024
+    m_Localized: Italiaans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5202848945889280
+    m_Localized: Spaans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5203523851345920
+    m_Localized: Pools
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5476628267450368
+    m_Localized: Nederlands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6357989773721600
+    m_Localized: Einde wedstrijd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8318338366357504
+    m_Localized: Ga naar het gemarkeerde effect om uit de kamer te ontsnappen.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
